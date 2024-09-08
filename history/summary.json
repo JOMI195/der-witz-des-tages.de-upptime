@@ -4,9 +4,9 @@
     "url": "https://der-witz-des-tages.de",
     "icon": "https://icons.duckduckgo.com/ip3/der-witz-des-tages.de.ico",
     "slug": "der-witz-des-tages-de",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,6 +15,8 @@
     "timeWeek": 478,
     "timeMonth": 478,
     "timeYear": 478,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-08": 0
+    }
   }
 ]
